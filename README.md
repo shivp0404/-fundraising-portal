@@ -52,14 +52,13 @@ A comprehensive web application to streamline and manage fundraising activities 
 
 ## 🖼️ Images
 
-Below are some screenshots of the application.  
-*(Screenshots are located in `frontend/public/`)*
+Below are some screenshots of the application. 
 
 | Register Page | Dashboard | Login Page |
 |---------------|-----------|------------|
 | ![Register](frontendfundraising-portal/public/register.png) | ![Dashboard](frontendfundraising-portal/public/dashboard.png) | ![Login](frontendfundraising-portal/public/login.png) |
 
-> _If your images have different names, update the links above accordingly._
+
 
 ---
 
@@ -143,18 +142,6 @@ npm run dev
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
----
-
-## 📄 License
-
-[Specify your license here, e.g., MIT, Apache 2.0, etc.]
-
----
-
-## 🙏 Acknowledgements
-
-[Optional: Credit libraries, tools, or individuals that helped with the project.]
-
----
+--
 
 > For questions or support, contact [shivp0404](https://github.com/shivp0404).
